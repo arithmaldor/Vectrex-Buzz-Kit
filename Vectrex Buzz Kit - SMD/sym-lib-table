@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Vextrex-Buzz-Fix-rescue)(type Legacy)(uri "${GITHUB}/Vectrex-Buzz-Kit/Vectrex Buzz Kit - SMD/Vextrex Buzz Fix-rescue.lib")(options "")(descr ""))
+)
